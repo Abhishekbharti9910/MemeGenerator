@@ -10,4 +10,4 @@ steps
 2. run "npm install" in terminal for dependecies
 3. bash "npm run start" to start the preview on local server
 
-if you are not want to run on your machine go through the hosted link
+if you are not want to run on your machine go through the hosted link >>> https://vermillion-eclair-c9f3f4.netlify.app
