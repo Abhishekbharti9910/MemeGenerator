@@ -1,0 +1,22 @@
+.down-btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+
+
+#down-btn {
+    width: 152px;
+    height: 36px;
+    background: linear-gradient(to right, #2a0845, #6441A5);
+    border-radius: 7px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+#down-btn :hover {
+    opacity: 0.9;
+    scale: 0.9;
+}
